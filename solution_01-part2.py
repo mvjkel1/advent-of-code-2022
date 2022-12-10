@@ -1,7 +1,6 @@
 def solution():
     with open("input") as file:
         lines = [line.strip() for line in file]
-        
 
     tmp = 0
     tmpList = []
